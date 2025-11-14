@@ -6,13 +6,13 @@ function Home() {
     </h1>
   );
 }
-
-function teste() {
-  console.log("teste");
-}
-
-function teste2() {
-  console.log("teste2");
+function TextDecoderStream() {
+  return (
+    <h2>
+      {" "}
+      esse é o primeiro site que tenho online. obrigado ao curso.dev por isso.
+    </h2>
+  );
 }
 
 export default Home;
